@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="level1.png" type="bitmap" width="512" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:38a8ffb7595abb56f50d644c5b0e5641$ -->
+    <textureregion id="0" src="item1.png" x="117" y="242" width="112" height="231" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="112" srcheight="231"/>
+    <textureregion id="1" src="item2.png" x="231" y="227" width="121" height="216" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="121" srcheight="216"/>
+    <textureregion id="2" src="item3.png" x="2" y="2" width="119" height="238" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="119" srcheight="238"/>
+    <textureregion id="3" src="item4.png" x="123" y="2" width="138" height="223" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="138" srcheight="223"/>
+    <textureregion id="4" src="item5.png" x="354" y="2" width="149" height="205" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="205"/>
+    <textureregion id="5" src="item6.png" x="2" y="242" width="113" height="237" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="113" srcheight="237"/>
+</texture>

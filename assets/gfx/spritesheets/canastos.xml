@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="canastos.png" type="bitmap" width="256" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:520bf4cb49dda8cb5bb6c84dfa8c88f2$ -->
+    <textureregion id="0" src="pantalones.png" x="2" y="244" width="210" height="115" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="210" srcheight="115"/>
+    <textureregion id="1" src="remeras.png" x="2" y="2" width="213" height="120" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="213" srcheight="120"/>
+    <textureregion id="2" src="vestidos.png" x="2" y="124" width="210" height="118" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="210" srcheight="118"/>
+</texture>
